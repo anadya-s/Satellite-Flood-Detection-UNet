@@ -6,7 +6,7 @@
 
 A Deep Learning application that detects water bodies and flood zones in satellite imagery using Semantic Segmentation. This project implements a custom **U-Net architecture** in PyTorch and features an interactive web interface built with **Streamlit** for real-time inference.
 
-![Project Results](results.png)
+![Project Results](result.png)
 *Left: Original Satellite Image | Right: AI Predicted Flood Mask*
 
 ## 📋 Table of Contents
